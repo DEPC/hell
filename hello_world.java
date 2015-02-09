@@ -5,3 +5,4 @@ public static void main(String args[]){
       sum += array[i];
   }
 }
+//Change
